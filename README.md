@@ -1,3 +1,3 @@
 # Spring-BOOT
 
-<h1>First Spring Boot Application</h1>
+<h1>Spring boot CURD operations</h1>
